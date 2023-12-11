@@ -1,0 +1,10 @@
+__pycache__/
+sharepoint/
+.vs/
+.DS_Store
+Data
+ETL/.env
+ETL/.DS_Store
+ETL/__pycache__
+sharepoint/.env
+sharepoint/__pycache__
