@@ -1,8 +1,8 @@
 # ETL Pipeline
-This project ingest data from sharepoint file systems (csv, excels) into data warehous schema. Following tools and technologies are used here-
--- Data Warehouse: PostgreSQL
--- Python: Data processing and DAG files
--- Airflow: Data pipeline archrastration and scheduling tools
+This project ingest data from sharepoint file systems (csv, excels) into data warehous schema. Following tools and technologies are used here- <br>
+-- Data Warehouse: PostgreSQL <br>
+-- Python: Data processing and DAG files <br>
+-- Airflow: Data pipeline archrastration and scheduling tools <br>
 
 ## main components:
 
